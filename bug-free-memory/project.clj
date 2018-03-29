@@ -45,7 +45,7 @@
                 :compiler {:output-to "resources/public/js/compiled/bug_free_memory.js"
                            :main bug-free-memory.core
                            ;:npm-deps {"legendary-spoon" "0.0.2"}
-                           ;:install-deps true
+                           :install-deps true
                            :optimizations :advanced
                            :pretty-print false}}]}
 
