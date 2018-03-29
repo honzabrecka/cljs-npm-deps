@@ -15,4 +15,4 @@
 
  - actual project that should compile `lein cljsbuild once min`
  - does not specify `:npm-deps` itself
- - tried with `:install-deps` (no effect)
+ - `:install-deps` is set to `true`
